@@ -6,5 +6,6 @@ public class Test {
         System.out.println("change");
         System.out.println("hot-fix分支");
         System.out.println("hot-fix");
+        System.out.println("toGitHub");
     }
 }
